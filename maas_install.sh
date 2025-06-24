@@ -24,11 +24,4 @@ sudo systemctl enable --now snapd.socket
 sudo ln -s /var/lib/snapd/snap /snap
 
 # Recomendado reiniciar
-# sudo reboot
-
-# Instalar o MAAS
-sudo snap install maas --channel=3.6/stable
-
-# Inicializar o MAAS
-sudo maas init region+rack
-
+sudo reboot
