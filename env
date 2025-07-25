@@ -1,0 +1,3 @@
+# Renomeie esse arquivo para `.env` e preencha as variáveis com seus dados.
+EMAIL="seu-email@mail.com"
+PASSWORD="sua-senha-secreta"
